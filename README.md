@@ -1,5 +1,5 @@
-# STUDY-imagec-migration
-Study note for Image Converter Migration from EC2 to GAE.
+# STUDY-ImageMigration
+Study notes for Image Converter Migration from EC2 to GAE.
 
 ## A. GAE Quickstart
 1. Install: Java SDK / Google Cloud SDK / Git / Appache Maven
